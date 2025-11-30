@@ -71,4 +71,3 @@ Extracts text from images using Azure OCR.
 
 ---
 
-If you want, bro, I can also add badges, a banner image, or a clean project diagram.
